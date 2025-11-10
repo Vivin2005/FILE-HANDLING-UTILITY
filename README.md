@@ -110,3 +110,7 @@ Key outcomes include:
 --> Though small in scale, it demonstrates the core of how many real-world applications manage data persistence. The project serves as an excellent stepping stone for future developments like file encryption systems, content editors, or automated report generators.
 
 --> This task not only improved technical knowledge but also instilled a deeper understanding of how structured coding, documentation, and testing contribute to building efficient software systems.
+
+** OUTPUT **
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/9896fd4b-4297-4dec-b5d6-4d941446979e" />
