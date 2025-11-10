@@ -119,6 +119,7 @@ Key outcomes include:
 
 --> THE BELOW OUTPUT IS ABOUT (READ FROM FILE).
 
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/4b03e3a5-526c-4d5f-b967-5f43b5b5e2e3" />
 
 --> THE BELOW OUTPUT IS ABOUT (MODIFY FILE CONTENT).
 
